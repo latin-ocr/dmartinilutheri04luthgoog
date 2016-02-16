@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dmartinilutheri04luthgoog_0517.png"; bbox 0 0 2346 4208; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 281 3450 849 3529">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 281 3450 849 3529">
+     <span class='ocr_line' id='line_1_1' title="bbox 281 3450 849 3529; baseline -0.002 -4"><span class='ocrx_word' id='word_1_1' title='bbox 281 3478 284 3483; x_wconf 86' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_2' title='bbox 316 3450 499 3527; x_wconf 52' lang='lat' dir='ltr'><strong>&#39;‘umuom</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 511 3480 706 3529; x_wconf 69' lang='lat' dir='ltr'><strong>mmmm</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 718 3484 758 3526; x_wconf 68' lang='lat' dir='ltr'><strong>nv</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 771 3485 849 3526; x_wconf 75' lang='lat' dir='ltr'><strong>mn.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1178 4208">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1178 4208">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1178 4208; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1178 4208; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
